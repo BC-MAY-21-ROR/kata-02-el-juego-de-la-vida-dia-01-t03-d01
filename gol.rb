@@ -7,7 +7,8 @@ def init_matriz(columns, rows, val)
   end 
   print matriz 
 end 
-init_matriz(4,5,1) 
+
+init_matriz(4,4,0) 
 
 
 #1.Cualquier célula viva con menos de dos vecinos vivos muere, como si fuera causada por la subpoblación. 
