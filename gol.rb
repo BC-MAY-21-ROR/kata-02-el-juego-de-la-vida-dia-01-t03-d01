@@ -10,7 +10,6 @@ end
 
 init_matriz(4,4,0) 
 
-
 #1.Cualquier célula viva con menos de dos vecinos vivos muere, como si fuera causada por la subpoblación. 
 #2.Cualquier celda viva con más de tres vecinos vivos muere, como por hacinamiento. 
 #3.Cualquier célula viva con dos o tres vecinos vivos vive para la próxima generación. 
